@@ -5,4 +5,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a596116&show_icons=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a596116&show_icons=true&layout=compact&theme=vue-dark)
 
-
++ ![haodai](https://komarev.com/ghpvc/?username=a596116)
++ ![haodai](https://visitor-badge.glitch.me/badge?page_id=a596116.profile)
