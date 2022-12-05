@@ -9,10 +9,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a596116&show_icons=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a596116&show_icons=true&layout=compact&theme=vue-dark)
 
 
-<h1 align=“center”>Hi 👋 ， I'm 浩呆（Hao Dai）</h1><h3 align=“center”>一名前端新手小白，有點後端的基礎能力</h3><
-
-
-p align =“left”> <img src=“https://komarev.com/ghpvc/?username=a596116&label=Profile%20views&color=0e75b6&style=flat” alt=“a596116” /> </p>
+<h1 align=“center”>Hi 👋 ， I'm 浩呆（Hao Dai）</h1><h3 align=“center”>一名前端新手小白，有點後端的基礎能力</h3>
+<p align =“left”> <img src=“https://komarev.com/ghpvc/?username=a596116&label=Profile%20views&color=0e75b6&style=flat” alt=“a596116” /> </p>
 
 <p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=”https://github-profile-trophy.vercel.app/?username=a596116“ alt=”a596116“ /></a> </p><h3 align=”left“>與我聯繫：</h3><p align=”left“>
 
