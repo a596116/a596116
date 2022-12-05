@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋， I'm 浩呆（Hao Dai）</h1><h3 align="center">一名前端新手小白，有點後端的基礎能力</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%2331F7A9&size=26&center=true&vCenter=true&width=600&lines=%E6%B5%A9%E5%91%86%E5%A4%A7%E5%B8%A5%E5%93%A5%EF%BD%9E" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%99%BD+-+%E6%B5%A9%E5%91%86" alt="typing-svg">
 </p>
 
  ![haodai](https://komarev.com/ghpvc/?username=a596116)
