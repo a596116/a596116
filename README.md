@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋， I'm 浩呆（Hao Dai）</h1><h3 align="center">熱愛前端技術的平凡人，主要技術Vue3、Nuxt3</h3>
 
 <p align="center">
-<a href="https://www.wanghaodai.com" target="_blank"><h3 align="center">個人網站</h2></a>
+<a href="https://www.wanghaodai.com" target="_blank"><h3 align="center">個人網站</h3></a>
 </p>
 
 <picture>
