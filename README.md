@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋， I'm 浩呆（Hao Dai）</h1><h3 align="center">熱愛前端技術的平凡人，主要技術Vue3、Nuxt3</h3>
 
-<p align="center">
-<a href="https://www.wanghaodai.com" target="_blank"><h3 align="center">個人網站</h3></a>
-</p>
+<h3 align="center"><a href="https://www.wanghaodai.com" target="_blank">個人網站</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a596116/a596116/output/github-contribution-grid-snake-dark.svg">
