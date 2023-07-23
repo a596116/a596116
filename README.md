@@ -1,20 +1,28 @@
+<h1 align="center">Hi 👋， I'm 浩呆（Hao Dai）</h1><h3 align="center">熱愛前端技術的平凡人，主要技術Vue3、Nuxt3</h3>
+
+<p align="center">
+<a href="https://www.wanghaodai.com" target="_blank"><h3 align="center">個人網站</h2></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a596116/a596116/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a596116/a596116/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/a596116/a596116/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">Hi 👋， I'm 浩呆（Hao Dai）</h1><h3 align="center">一名前端新手小白，有點後端的基礎能力</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%99%BD+-+%E6%B5%A9%E5%91%86" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?size=26&center=true&vCenter=true&width=600&lines=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB+-+%E6%B5%A9%E5%91%86" alt="typing-svg">
 </p>
 
  ![haodai](https://komarev.com/ghpvc/?username=a596116)
  
 <h3 align="left">與我聯繫：</h3>
 <p align="left">
-<a href="https://instagram.com/haodai_0621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haodai_0621" height="30" width="40"/></a></p>
+<a href="https://instagram.com/haodai_0621" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haodai_0621" height="30" width="40"/></a>
+</p>
+
+Email: <a href="mailto:a596116@gmail.com" target="_blank">a596116@gmail.com</a>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a596116&show_icons=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a596116&show_icons=true&layout=compact&theme=vue-dark)
